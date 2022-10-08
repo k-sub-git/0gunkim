@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=0Gun%20%20kim&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=0Gun%20%20kim&fontSize=77&animation=twinkling)
 <div align=center> ### Hi there 👋</div>
 
 
