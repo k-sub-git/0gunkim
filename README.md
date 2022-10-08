@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=180&section=footer&animation=twinkling)
+<div align=center> </div>
