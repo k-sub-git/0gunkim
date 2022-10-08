@@ -1,6 +1,11 @@
-### Hi there 👋
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kim%200%20Gun&fontSize=90&animation=twinkling)
-<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=0Gun%20%20kim&fontSize=90&animation=twinkling)
+<div align=center> ### Hi there 👋</div>
+
+
+![0gunkim's github stats](https://github-readme-stats.vercel.app/api?username=0gunkim&show_icons=true&theme=prussian)
+ 
+ 
+ <!--
 **0gunkim/0gunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
