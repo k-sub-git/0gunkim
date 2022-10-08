@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=0Gun%20%20kim&fontSize=77&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=0Gun%20%20kim&fontSize=77&animation=twinkling)
 <div align=center> </div>
 
 
-![0gunkim's github stats](https://github-readme-stats.vercel.app/api?username=0gunkim&show_icons=true&theme=prussian)
  
  
  <!--
