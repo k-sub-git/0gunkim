@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kim%200%20Gun&fontSize=90&animation=twinkling)
 <!--
 **0gunkim/0gunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
