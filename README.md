@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?text=0Gun%20%20kim&fontSize=50&type=waving&color=gradient&height=220&section=header&animation=twinkling)
 <div align=center> </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gunkim&layout=compact)](https://github.com/0gunkim/github-readme-stats)
+# 🌵 HELLO!!
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+
+![0gunkim's github stats](https://github-readme-stats.vercel.app/api?username=0gunkim&show_icons=true&theme=prussian)
+
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gunkim&layout=compact)](https://github.com/0gunkim/github-readme-stats)
 
 
  <!--
