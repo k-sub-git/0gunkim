@@ -1,9 +1,9 @@
 <div align="center">
-
+  
 ![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=300&section=header&animation=twinkling)
-
-🌵 HELLO!!
-
+  
+  🌵 HELLO!!
+  
 ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=500&section=footer&animation=twinkling)
 <div align=center> </div>
 
