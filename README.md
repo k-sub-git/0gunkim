@@ -1,7 +1,13 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?text=0Gun%20%20kim&fontSize=50&type=waving&color=gradient&height=220&section=header&animation=twinkling)
 <div align=center> </div>
 
+<div align="left">
+
 # 🌵 HELLO!!
+
+<div align="center">
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 
